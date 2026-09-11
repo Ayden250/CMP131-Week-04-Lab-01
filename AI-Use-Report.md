@@ -2,21 +2,21 @@
 
 ## Student Information
 
-- Student name:
-- Week:
+- Student name: Ayden 
+- Week: 4
 - Lab:
-- Date:
+- Date: 9/11/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [.] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
-## Tool Used
+## Tool Used Github copilot 
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
@@ -26,7 +26,7 @@ Tool:
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: 
 
 ## How I Used the Assistance
 
